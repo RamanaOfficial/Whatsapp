@@ -184,13 +184,6 @@ async function CreateWhatsappChatWidget(
                         </svg>
                   </a>
               
-    
-                <div class='wa-chat-box-poweredby'>
-                    <svg width="8" height="15" viewBox="0 0 8 15" fill="none" xmlns="http://www.w3.org/2000/svg" style="display: block">
-                      <path d="M3 15V9H0L5 0V6H8L3 15Z" fill="#999999" />
-                    </svg>
-                    Powered by <a rel="noopener noreffer" href="https://www.wati.io/?utm_source=shopify&utm_medium=chat_widget&utm_campaign=shopify_widget" target="_blank" class="wa-chat-box-poweredby-link">wati.io</a>
-                </div>
             </div>
             `
     );
